@@ -21,20 +21,26 @@ button {
   padding: 2rem;
 }
 
+.cta {
+  background-color: blueviolet;
+}
+
 .cta:hover {
-  background-color: rgb(247, 7, 7);
+  background-color: pink;
+}
+
+.btn {
+  background-color: green;
 }
 
 .btn:hover {
   background-color: blue;
 }
 
+.inactive {
+  background-color: black;
+}
+
 .inactive:hover {
   background-color: grey;
-}
-.btn {
-  background-color: rgb(21, 238, 21);
-}
-.inactive {
-  background-color: rgb(106, 249, 106);
 }
