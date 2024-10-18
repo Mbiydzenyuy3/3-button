@@ -11,6 +11,14 @@ button {
   background-color: green;
   color: white;
   border-radius: 24px;
+  margin: 40px;
+}
+
+.button {
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  padding: 2rem;
 }
 
 .cta:hover {
