@@ -1,1 +1,46 @@
+body {
+  background-color: black;
+  font-size: 1rem;
+}
 
+button {
+  width: 124px;
+  height: 40px;
+  padding: 8px;
+  border: none;
+  background-color: green;
+  color: white;
+  border-radius: 24px;
+  margin: 40px;
+}
+
+.button {
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.cta {
+  background-color: blueviolet;
+}
+
+.cta:hover {
+  background-color: pink;
+}
+
+.btn {
+  background-color: green;
+}
+
+.btn:hover {
+  background-color: blue;
+}
+
+.inactive {
+  background-color: black;
+}
+
+.inactive:hover {
+  background-color: grey;
+}
