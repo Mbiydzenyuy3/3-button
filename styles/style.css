@@ -1,1 +1,18 @@
+body {
+  background-color: black;
+  font-size: 1rem;
+}
 
+button {
+  width: 124px;
+  height: 40px;
+  padding: 8px;
+  border: none;
+  background-color: green;
+  color: white;
+  border-radius: 24px;
+}
+
+.cta:hover {
+  background-color: rgb(247, 7, 7);
+}
